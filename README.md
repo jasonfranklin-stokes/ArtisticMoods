@@ -1,4 +1,5 @@
 # ArtisticMoods for human reference, LLM know these terms as 'Artisic Mood'
+- Cinematic
 - Melancholic
 - Euphoric
 - Serene
